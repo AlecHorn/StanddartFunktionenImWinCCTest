@@ -1,3 +1,6 @@
 void GitHubTest(char* lpszPictureName, char* lpszObjectName)
 {
+
+//Test ob er dies erkennt.
+//Wenn ja muss ich die Datein in .txt erstellen und dann in das GlobalScript einfügen.
 }
